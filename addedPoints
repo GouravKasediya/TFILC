@@ -1,0 +1,41 @@
+Hi Gourav, only had a quick look. the mapping scripts for the ILC Outstanding Claim and Correspondence already exists so it seems what Dennis mentioned is the only change, in the FCCtoFTIMappingSelector.groovy, in the case for TFILCPYR.
+ 
+ 
+The TFILCPYR scenario is unknown, identify what the needed sub_tnx_type_code that FCC sends out. Coordinate with both FCC and a FTB BA (Ajith, Deepa / Deepak, Prakash / or check with Dennis for a BA)
+ 
+Identify the code that FCC sends out that is expected to be routed to TFILCPYR and add it to the case that returns TFILCPYR
+ 
+ 
+ 
+TFILCCOR scenario is already in the codes,
+the
+default:
+  return "TFILCCOR"
+ 
+do this already. Just make sure that the tnx_type_code =13 and sub_tnx_type_code is not any of the case so that it will use the default.
+ 
+ 
+Then coordinate also with a FCC and FTB BA if there are additional values needed to be mapped. Usually the BA will provide a table like this:
+ 
+ 
+where they explicitly mention what FCC xml tag maps to an TI XML tag.
+ 
+ 
+ 
+Update the Jira ticket as soon as you have any relevant information.
+the highlighted and other unknowns are not encouraged for a story. Everything must be clear since possible bugs / related scenarios will refer to this ticket. Coordinate with a BA always
+
+
+Best case is that the change is only the case in FCCtoFTIMappingSelector.groovy.
+ 
+But check also if the feature already exists /working correctly in FCC (may need an MPS ticket).
+
+
+
+
+You may also want to have this saved,
+https://github.com/fin-lending/TB-ticc-documentation
+ 
+Open the mapping-documentation and one of the xslx file. You will see the supported TI API's and corresponding CC message (Document Guide tab).
+the rules for outgoing TI gateway messages (FTI Gateway Templates tab)
+and the user-friendly* mapping between TI and CC xml tags
