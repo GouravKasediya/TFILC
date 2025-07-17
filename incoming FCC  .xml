@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lc_tnx_record xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance xsi:noNamespaceSchemaLocation=http://www.misys.com/portal/interfaces/xsd/lc.xsd>
+
+              <brch_code>00001</brch_code>
+
+              <ref_id>LC25050000004743</ref_id>
+
+              <template_id/>
+
+         <bo_ref_id>ILC&#x2F;MBW&#x2F;24&#x2F;0579</bo_ref_id>
+
+              <bo_tnx_id/>
+
+              <cust_ref_id>LC25050000004743</cust_ref_id>
+
+              <tnx_id>25051300007010</tnx_id>
+
+              <company_id>420</company_id>
+
+              <company_name>ABC</company_name>
+
+              <imp_bill_ref_id/>
+
+              <adv_send_mode>01</adv_send_mode>
+
+              <adv_send_mode_text/>
+
+              <tnx_type_code>13</tnx_type_code>
+
+              <sub_tnx_type_code>25</sub_tnx_type_code><!--N003_SETTLEMENT_REQUEST ="25"-->
+
+              <prod_stat_code>03</prod_stat_code>
+
+              <tnx_stat_code>03</tnx_stat_code>
+
+              <sub_tnx_stat_code>05</sub_tnx_stat_code>
+
+              <product_code>LC</product_code>
+
+              <sub_product_code>LCSTD</sub_product_code>
+
+              <inp_user_id>420</inp_user_id>
+
+              <inp_dttm>13/05/2025 12:52:54</inp_dttm>
+
+              <release_user_id>420</release_user_id>
+
+              <release_dttm>13/05/2025 12:52:54</release_dttm>
+
+              <bo_inp_user_id/>
+
+              <bo_inp_dttm/>
+
+              <bo_release_user_id/>
+
+              <bo_release_dttm/>
+
+              <tnx_val_date>13/05/2025</tnx_val_date>
+
+              <appl_date>07/11/2024</appl_date>
+
+              <iss_date>07/11/2024</iss_date>
+
+              <exp_date>31/05/2025</exp_date>
+
+              <amd_date/>
+
+              <amd_no/>
+
+              <amd_req_no/>
+
+              <last_ship_date/>
+
+              <tnx_cur_code>SGD</tnx_cur_code>
+
+              <tnx_amt>1.00</tnx_amt>
+
+              <lc_cur_code>SGD</lc_cur_code>
+
+              <lc_amt>10,000.00</lc_amt>
+
+              <lc_liab_amt>10,000.00</lc_liab_amt>
+
+              <release_amt/>
+
+              <lc_outstanding_amt/>
+
+              <lc_available_amt>10,000.00</lc_available_amt>
+
+              <lc_type>01</lc_type>
+
+              <beneficiary_abbv_name/>
+
+              <beneficiary_name>RAGNAROCK INDUSTRIES LLC</beneficiary_name>
+
+              <beneficiary_address_line_1/>
+
+              <beneficiary_address_line_2/>
+
+              <beneficiary_dom/>
+
+              <beneficiary_address_line_4/>
+
+              <beneficiary_country>IN</beneficiary_country>
+
+              <beneficiary_reference/>
+
+              <beneficiary_lei/>
+
+              <claim_cur_code/>
+
+              <claim_amt/>
+
+              <claim_reference/>
+
+              <claim_present_date/>
+
+              <applicant_abbv_name>ABC</applicant_abbv_name>
+
+              <applicant_name>Parle Entity ABC</applicant_name>
+
+              <applicant_address_line_1/>
+
+              <applicant_address_line_2/>
+
+              <applicant_dom/>
+
+              <applicant_address_line_4/>
+
+              <applicant_country>IN</applicant_country>
+
+<applicant_reference>ABC.Z1.MBWW.LOND</applicant_reference>
+
+              <applicant_lei/>
+
+              <entity>ASSC</entity>
+
+              <expiry_place>In Beneficiary&#x27;s Country</expiry_place>
+
+              <inco_term/>
+
+              <inco_place/>
+
+              <inco_term_year/>
+
+              <earliest_ship_date/>
+
+              <ship_name/>
+
+              <ship_period>02</ship_period>
+
+              <part_ship_detl>ALLOWED</part_ship_detl>
+
+              <tran_ship_detl>NOT ALLOWED</tran_ship_detl>
+
+              <ship_from/>
+
+              <lc_release_flag/>
+
+              <ship_loading/>
+
+              <ship_discharge/>
+
+              <ship_to/>
+
+              <draft_term/>
+
+              <cty_of_dest/>
+
+              <rvlv_lc_type_code/>
+
+              <max_no_of_rvlv/>
+
+              <neg_tol_pct/>
+
+              <pstv_tol_pct/>
+
+              <cr_avl_by_code>01</cr_avl_by_code>
+
+              <dir_reim_flag/>
+
+              <irv_flag>Y</irv_flag>
+
+              <ntrf_flag>Y</ntrf_flag>
+
+              <stnd_by_lc_flag/>
+
+              <product_type_code/>
+
+              <product_type_details/>
+
+              <stand_by_lc_code/>
+
+              <standby_rule_code/>
+
+              <standby_rule_other/>
+
+              <cfm_inst_code>03</cfm_inst_code>
+
+              <cfm_flag/>
+
+              <cfm_chrg_brn_by_code>02</cfm_chrg_brn_by_code>
+
+              <corr_chrg_brn_by_code>02</corr_chrg_brn_by_code>
+
+              <open_chrg_brn_by_code>01</open_chrg_brn_by_code>
+
+              <deductions/>
+
+              <goods_percentage_value/>
+
+              <line_items/>
+
+              <amd_chrg_brn_by_code>01</amd_chrg_brn_by_code>
+
+              <renew_flag/>
+
+              <renew_on_code/>
+
+              <renewal_calendar_date/>
+
+              <renew_for_nb/>
+
+              <renew_for_period/>
+
+              <advise_renewal_flag/>
+
+              <advise_renewal_days_nb/>
+
+              <rolling_renewal_flag/>
+
+              <rolling_renewal_nb/>
+
+              <rolling_cancellation_days/>
+
+              <renew_amt_code/>
+
+              <principal_act_no>289346198246</principal_act_no><!--principle account-->
+
+              <fee_act_no>289346198246</fee_act_no><!--fee account-->
+
+<related_claim_reference>CLM001</related_claim_reference><!--New field-->
+
+              <eucp_flag/>
+
+              <eucp_version/>
+
+              <eucp_presentation_place/>
+
+              <doc_ref_no/>
+
+              <maturity_date/>
+
+              <latest_answer_date/>
+
+            <fwd_contract_no>FXCONTRACT001</fwd_contract_no><!--forward contract number-->
+
+              <applicable_rules>01</applicable_rules>
+
+              <applicable_rules_text/>
+
+              <advising_bank_lc_ref_id/>
+
+              <tenor_type>01</tenor_type>
+
+              <tenor_maturity_date/>
+
+              <tenor_days/>
+
+              <tenor_period/>
+
+              <tenor_from_after/>
+
+              <tenor_days_type/>
+
+              <tenor_type_details/>
+
+              <debit_amt/>
+
+              <transport_mode/>
+
+              <delivery_channel/>
+
+              <open_chrg_applicant/>
+
+              <open_chrg_beneficiary/>
+
+              <corr_chrg_applicant/>
+
+              <corr_chrg_beneficiary/>
+
+              <cfm_chrg_applicant/>
+
+              <cfm_chrg_beneficiary/>
+
+              <revolving_flag>N</revolving_flag>
+
+              <revolve_period/>
+
+              <revolve_frequency/>
+
+              <revolve_time_no/>
+
+              <cumulative_flag>N</cumulative_flag>
+
+              <next_revolve_date/>
+
+              <notice_days/>
+
+              <charge_upto>p</charge_upto>
+
+              <provisional_status/>
+
+              <alt_applicant_name/>
+
+              <alt_applicant_address_line_1/>
+
+              <alt_applicant_address_line_2/>
+
+              <alt_applicant_dom/>
+
+              <alt_applicant_address_line_4/>
+
+              <alt_applicant_country/>
+
+              <for_account_flag>N</for_account_flag>
+
+              <alt_applicant_cust_ref/>
+
+              <alt_applicant_lei/>
+
+              <period_presentation_days/>
+
+              <req_conf_party_flag/>
+
+              <cancellation_req_flag/>
+
+              <lc_govern_country/>
+
+              <lc_govern_country_subdiv/>
+
+              <lc_govern_text/>
+
+              <delv_org/>
+
+              <delv_org_text/>
+
+              <delivery_to/>
+
+              <lc_exp_date_type_code/>
+
+              <purpose/>
+
+              <exp_event/>
+
+              <demand_indicator/>
+
+              <courier_partner/>
+
+              <courier_partner_waybill_no/>
+
+              <applicant_address>
+
+                             <name>Parle Entity ABC</name>
+
+                             <department>Department</department>
+
+                             <sub_department>Sub Department</sub_department>
+
+                             <street_name>Street</street_name>
+
+                             <building_number>Building Number</building_number>
+
+                             <building_name>Building Number</building_name>
+
+                             <floor>Floor</floor>
+
+                             <post_box>Post Box</post_box>
+
+                             <room>Room</room>
+
+                             <post_code>Post Code</post_code>
+
+                             <town_name>Town Name</town_name>
+
+                             <town_location_name>Town Location Name</town_location_name>
+
+                             <district_name>District</district_name>
+
+                             <country_sub_division>Country Sub Division</country_sub_division>
+
+                             <country>IN</country>
+
+                             <hybrid_line_1>Address Line 1</hybrid_line_1>
+
+                             <hybrid_line_2>Address Line2</hybrid_line_2>
+
+              </applicant_address>
+
+              <alt_applicant_address>
+
+                             <name/>
+
+                             <department/>
+
+                             <sub_department/>
+
+                             <street_name/>
+
+                             <building_number/>
+
+                             <building_name/>
+
+                             <floor/>
+
+                             <post_box/>
+
+                             <room/>
+
+                             <post_code/>
+
+                             <town_name/>
+
+                             <town_location_name/>
+
+                             <district_name/>
+
+                             <country_sub_division/>
+
+                             <country/>
+
+                             <hybrid_line_1/>
+
+                             <hybrid_line_2/>
+
+              </alt_applicant_address>
+
+              <beneficiary_address>
+
+                             <name>RAGNAROCK INDUSTRIES LLC</name>
+
+                             <department>DEPARTMENT</department>
+
+                             <sub_department>SUB DEPARTMENT</sub_department>
+
+                             <street_name>STREET NAME</street_name>
+
+                             <building_number>BUILDING NUMBER</building_number>
+
+                             <building_name>BUILDING NAME</building_name>
+
+                             <floor>FLOOR</floor>
+
+                             <post_box>POST BOX</post_box>
+
+                             <room>ROOM</room>
+
+                             <post_code>POST CODE</post_code>
+
+                             <town_name>TOWN NAME</town_name>
+
+                             <town_location_name>TOWN LOCATION NAME</town_location_name>
+
+                             <district_name>DISTRICT</district_name>
+
+                             <country_sub_division>COUNTRY SUB DIVISON</country_sub_division>
+
+                             <country>IN</country>
+
+                             <hybrid_line_1>ADDRESS LINE 1</hybrid_line_1>
+
+                             <hybrid_line_2>ADDRESS LINE 2</hybrid_line_2>
+
+              </beneficiary_address>
+
+              <issuing_bank>
+
+                             <abbv_name>DEMOBANK</abbv_name>
+
+                             <name>Demobank Pvt Ltd</name>
+
+                             <address_line_1/>
+
+                             <address_line_2/>
+
+                             <dom/>
+
+                             <address_line_4/>
+
+                             <reference/>
+
+                             <country/>
+
+                             <iso_code/>
+
+                             <contact_name/>
+
+                             <phone/>
+
+                             <fax/>
+
+                             <telex/>
+
+                             <email/>
+
+                             <web_address/>
+
+                             <lei_code/>
+
+                             <department/>
+
+                             <sub_department/>
+
+                             <street_name/>
+
+                             <building_number/>
+
+                             <building_name/>
+
+                             <floor/>
+
+                             <post_box/>
+
+                             <room/>
+
+                             <post_code/>
+
+                             <town_name/>
+
+                             <town_location_name/>
+
+                             <district_name/>
+
+                             <country_sub_division/>
+
+                             <hybrid_line_1/>
+
+                             <hybrid_line_2/>
+
+              </issuing_bank>
+
+              <advising_bank>
+
+                             <abbv_name/>
+
+                             <name>Barclays Bank Plc (Head Office)</name>
+
+                             <address_line_1>1-267 Barclays Tower</address_line_1>
+
+                             <address_line_2>LONDON</address_line_2>
+
+                             <dom>ENGLAND</dom>
+
+                             <address_line_4/>
+
+                             <reference>BBI</reference>
+
+                             <country/>
+
+                             <iso_code/>
+
+                             <contact_name/>
+
+                             <phone/>
+
+                             <fax/>
+
+                             <telex/>
+
+                             <email/>
+
+                             <web_address/>
+
+                             <lei_code/>
+
+                             <department/>
+
+                             <sub_department/>
+
+                             <street_name/>
+
+                             <building_number/>
+
+                             <building_name/>
+
+                             <floor/>
+
+                             <post_box/>
+
+                             <room/>
+
+                             <post_code/>
+
+                             <town_name/>
+
+                             <town_location_name/>
+
+                             <district_name/>
+
+                             <country_sub_division/>
+
+                             <hybrid_line_1/>
+
+                             <hybrid_line_2/>
+
+              </advising_bank>
+
+              <advise_thru_bank>
+
+                             <abbv_name/>
+
+                             <name/>
+
+                             <address_line_1/>
+
+                             <address_line_2/>
+
+                             <dom/>
+
+                             <address_line_4/>
+
+                             <reference/>
+
+                             <country/>
+
+                             <iso_code/>
+
+                             <contact_name/>
+
+                             <phone/>
+
+                             <fax/>
+
+                             <telex/>
+
+                             <email/>
+
+                             <web_address/>
+
+                             <lei_code/>
+
+                             <department/>
+
+                             <sub_department/>
+
+                             <street_name/>
+
+                             <building_number/>
+
+                             <building_name/>
+
+                             <floor/>
+
+                             <post_box/>
+
+                             <room/>
+
+                             <post_code/>
+
+                             <town_name/>
+
+                             <town_location_name/>
+
+                             <district_name/>
+
+                             <country_sub_division/>
+
+                             <hybrid_line_1/>
+
+                             <hybrid_line_2/>
+
+              </advise_thru_bank>
+
+              <credit_available_with_bank>
+
+                             <name>Any Bank</name>
+
+              </credit_available_with_bank>
+
+              <drawee_details_bank>
+
+                             <abbv_name/>
+
+                             <name/>
+
+                             <address_line_1/>
+
+                             <address_line_2/>
+
+                             <dom/>
+
+                             <address_line_4/>
+
+                             <reference/>
+
+                             <country/>
+
+                             <iso_code/>
+
+                             <contact_name/>
+
+                             <phone/>
+
+                             <fax/>
+
+                             <telex/>
+
+                             <email/>
+
+                             <web_address/>
+
+                             <lei_code/>
+
+                             <department/>
+
+                             <sub_department/>
+
+                             <street_name/>
+
+                             <building_number/>
+
+                             <building_name/>
+
+                             <floor/>
+
+                             <post_box/>
+
+                             <room/>
+
+                             <post_code/>
+
+                             <town_name/>
+
+                             <town_location_name/>
+
+                             <district_name/>
+
+                             <country_sub_division/>
+
+                             <hybrid_line_1/>
+
+                             <hybrid_line_2/>
+
+              </drawee_details_bank>
+
+              <requested_confirmation_party>
+
+                             <abbv_name/>
+
+                             <name/>
+
+                             <address_line_1/>
+
+                             <address_line_2/>
+
+                             <dom/>
+
+                             <address_line_4/>
+
+                             <reference/>
+
+                             <country/>
+
+                             <iso_code/>
+
+                             <contact_name/>
+
+                             <phone/>
+
+                             <fax/>
+
+                             <telex/>
+
+                             <email/>
+
+                             <web_address/>
+
+                             <lei_code/>
+
+                             <department/>
+
+                             <sub_department/>
+
+                             <street_name/>
+
+                             <building_number/>
+
+                             <building_name/>
+
+                             <floor/>
+
+                             <post_box/>
+
+                             <room/>
+
+                             <post_code/>
+
+                             <town_name/>
+
+                             <town_location_name/>
+
+                             <district_name/>
+
+                             <country_sub_division/>
+
+                             <hybrid_line_1/>
+
+                             <hybrid_line_2/>
+
+              </requested_confirmation_party>
+
+              <linked_licenses/>
+
+              <narrative_amend_charges_other/>
+
+              <narrative_charges/>
+
+              <narrative_additional_amount/>
+
+              <narrative_payment_instructions>Please always quote L&#x2F;C number ILC&#x2F;MBW&#x2F;24&#x2F;0579  in all your communications.&#10;Please acknowledge receipt.</narrative_payment_instructions>
+
+              <narrative_period_presentation/>
+
+              <narrative_shipment_period/>
+
+              <narrative_sender_to_receiver/>
+
+              <narrative_full_details/>
+
+              <bo_comment>We have acknowledged the issue of this Import Letter of Credit</bo_comment>
+
+              <free_format_text>TEST cust instructions</free_format_text> <!--Narrative-->
+
+              <amd_details/>
+
+<narrative_description_goods>test</narrative_description_goods>
+
+<narrative_documents_required>test</narrative_documents_required>
+
+              <narrative_additional_instructions>In the event that documents presented hereunder are determined to be discrepant, we may seek a waiver of such discrepancies from the applicant.  Should such a waiver be obtained, we may release the documents and effect settlement, notwithstanding any prior communication to the presenter that we are holding documents at the presenter&#x27;s disposal, unless we have been instructed otherwise by the presenter prior to our release of documents.&#10;+ A DSICREPANCY FEE OF USD 150.00 OR ITS EQUIVALENT WILL BE DEDUCTED FROM THE PROCEEDS, IF DOCUMENTS ARE PRESENTED WITH DISCREPANCY(IES). NOTWITHSTANDING ANY INSTRUCTIONS TO THE CONTRARY THIS CHARGES AND CORRESPONDENCE CHARGES RELATING TO DISCREPANCIES(IES) SHALL BE FOR THE ACCOUNT OF BENEFICIARY.</narrative_additional_instructions>
+
+              <narrative_special_beneficiary/>
+
+              <narrative_special_recvbank/>
+
+              <additional_field name="credit_available_with_bank_type" type="string" scope="master">03</additional_field>
+
+              <additional_field name="releaser_first_name" type="xml_text" scope="transaction">Mahadevi</additional_field>
+
+              <additional_field name="releaser_phone" type="xml_text" scope="transaction">0903504534</additional_field>
+
+              <additional_field name="releaser_last_name" type="xml_text" scope="transaction">G USer A</additional_field>
+
+              <additional_field name="releaser_email" type="xml_text" scope="transaction">mahadevibasling.gundgadgi@finastra.com</additional_field>
+
+              <additional_field name="parent_ref_id" type="string" scope="master"/>
+
+              <additional_field name="is_from_local_service" type="string" scope="master">N</additional_field>
+
+              <additional_field name="bo_release_dttm" type="time" scope="master">13/05/2025 12:52:17</additional_field>
+
+</lc_tnx_record>
