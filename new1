@@ -1,0 +1,47 @@
+case "lc_tnx_record":
+    String relatedClaimRef = ""
+    String relatedRef = ""
+
+    try {
+        // Correct and safe way to read XML tag
+        relatedClaimRef = fccMsg.related_claim_reference?.text()?.trim()
+        if (relatedClaimRef) {
+            relatedRef = "01"
+        }
+    } catch (Exception e) {
+        log.warn("Error while extracting related_claim_reference: ${e.message}")
+    }
+
+    tiMsgType = getLCMessageType(tnxTypeCode, subTnxTypeCode, relatedRef)
+    break
+
+
+
+
+private String getLCMessageType(String tnxTypeCode, String subTnxTypeCode, String relatedRef) {
+    switch (tnxTypeCode) {
+        case "01":
+            return (subTnxTypeCode == "06") ? "TFILCBTB" : "TFILCAPP"
+        case "03":
+            return "TFILCAMN"
+        case "13":
+            if (relatedRef == "01") {
+                return "TFILCPYR"
+            }
+            switch (subTnxTypeCode) {
+                case "03":
+                    return "TFILCAMN"
+                case ["08", "09", "62", "63"]:
+                    return "TFILCPYR"
+                case "68":
+                    return "TFILCCAN"
+                case ["88", "89"]:
+                    return "TFILCAPP"
+                default:
+                    return "TFILCCOR"
+            }
+        default:
+            return ""
+    }
+}
+
