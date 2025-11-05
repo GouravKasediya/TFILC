@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tfilcdet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<MessageName>TFILCCRT</MessageName>
+<eBankMasterRef>LC25110000023628</eBankMasterRef>
+<eBankEventRef xsi:nil="true"/>
+<MasterRef><![CDATA[ILC/MBW/23/1255]]></MasterRef>
+<EventRef>ISS002</EventRef>
+<LinkedClaimRef>ISS001</LinkedClaimRef>
+<ApplicantRef>ISBPROVISSCHK123</ApplicantRef>
+<ApplicantId>ABC</ApplicantId>
+<PrincipalId>ABC</PrincipalId>
+<ApplicantLEI xsi:nil="true"/>
+<BehalfOfBranch>LOND</BehalfOfBranch>
+<MBE>MBWW</MBE>
+<ApplicantName>ABC INDUSTRIES LTD</ApplicantName>
+<ApplicantAdr2>STREET NAME</ApplicantAdr2>
+<ApplicantAdr3>TOWN NAME</ApplicantAdr3>
+<ApplicantAdr4>COUNTRY SUB DIVISION</ApplicantAdr4>
+<ApplicantAdr5 xsi:nil="true"/>
+<ApplicantPrimeName>ABC INDUSTRIES LTD</ApplicantPrimeName>
+<ApplicantPrimeAdr2>STREET NAME</ApplicantPrimeAdr2> 
+<ApplicantPrimeAdr3>TOWN NAME</ApplicantPrimeAdr3>
+<ApplicantPrimeAdr4>COUNTRY SUB DIVISION</ApplicantPrimeAdr4>
+<ApplicantPrimeAdr5 xsi:nil="true"/>
+<ApplicantCountry>GB</ApplicantCountry>
+<ApplicantMXName>ABC INDUSTRIES LTD</ApplicantMXName>
+<ApplicantMXDepartment xsi:nil="true"/>
+<ApplicantMXSubDepartment xsi:nil="true"/>
+<ApplicantMXStreetName>BATH ROAD</ApplicantMXStreetName>
+<ApplicantMXBuildingNumber>SLOUGH ESTATES</ApplicantMXBuildingNumber>
+<ApplicantMXBuildingName>GLAS TOWER</ApplicantMXBuildingName>
+<ApplicantMXFloor xsi:nil="true"/>
+<ApplicantMXPostBox xsi:nil="true"/>
+<ApplicantMXRoom xsi:nil="true"/>
+<ApplicantMXPostCode>1740</ApplicantMXPostCode>
+<ApplicantMXTownName>SLOUGH</ApplicantMXTownName>
+<ApplicantMXTownLocationName xsi:nil="true"/>
+<ApplicantMXDistrictName xsi:nil="true"/>
+<ApplicantMXCountrySubDivision xsi:nil="true"/>
+<ApplicantMXCountry>GB</ApplicantMXCountry>
+<ApplicantMXAddr1 xsi:nil="true"/>
+<ApplicantMXAddr2 xsi:nil="true"/>
+<AltApplicantLEI xsi:nil="true"/>
+<AltApplicantName xsi:nil="true"/>
+<AltApplicantAdr2 xsi:nil="true"/>
+<AltApplicantAdr3 xsi:nil="true"/>
+<AltApplicantAdr4 xsi:nil="true"/>
+<AltApplicantAdr5 xsi:nil="true"/>
+<AltApplicantPrimeName xsi:nil="true"/>
+<AltApplicantPrimeAdr2 xsi:nil="true"/>
+<AltApplicantPrimeAdr3 xsi:nil="true"/>
+<AltApplicantPrimeAdr4 xsi:nil="true"/>
+<AltApplicantPrimeAdr5 xsi:nil="true"/>
+<AltApplicantCountry xsi:nil="true"/>
+<AltApplicantMXName xsi:nil="true"/>
+<AltApplicantMXDepartment xsi:nil="true"/>
+<AltApplicantMXSubDepartment xsi:nil="true"/>
+<AltApplicantMXStreetName xsi:nil="true"/>
+<AltApplicantMXBuildingNumber xsi:nil="true"/>
+<AltApplicantMXBuildingName xsi:nil="true"/>
+<AltApplicantMXFloor xsi:nil="true"/>
+<AltApplicantMXPostBox xsi:nil="true"/>
+<AltApplicantMXRoom xsi:nil="true"/>
+<AltApplicantMXPostCode xsi:nil="true"/>
+<AltApplicantMXTownName xsi:nil="true"/>
+<AltApplicantMXTownLocationName xsi:nil="true"/>
+<AltApplicantMXDistrictName xsi:nil="true"/>
+<AltApplicantMXCountrySubDivision xsi:nil="true"/>
+<AltApplicantMXCountry xsi:nil="true"/>
+<AltApplicantMXAddr1 xsi:nil="true"/>
+<AltApplicantMXAddr2 xsi:nil="true"/>
+<AltApplicantRef xsi:nil="true"/>
+<BankComment>We have issued this Import Letter of Credit</BankComment>
+<ApplicationDate>2023-10-02</ApplicationDate>
+<IssueDate>2023-10-02</IssueDate>
+<TransactionDate>2023-10-02</TransactionDate>
+<ExpiryDate>2026-02-27</ExpiryDate>
+<ExpiryPlace><![CDATA[In Beneficiary's Country]]></ExpiryPlace>
+<BeneficiaryId xsi:nil="true"/>
+<BeneficiaryLEI xsi:nil="true"/>
+<BeneficiaryName>EASTERN MULTINATIONAL LIMITED</BeneficiaryName>
+<BeneficiaryAdr2>Bellview Garden Complex</BeneficiaryAdr2>
+<BeneficiaryAdr3>4th Avenue New York</BeneficiaryAdr3>
+<BeneficiaryAdr4 xsi:nil="true"/>
+<BeneficiaryAdr5 xsi:nil="true"/>
+<BeneficiaryPrimeName>EASTERN MULTINATIONAL LIMITED</BeneficiaryPrimeName>
+<BeneficiaryPrimeAdr2>Bellview Garden Complex</BeneficiaryPrimeAdr2>
+<BeneficiaryPrimeAdr3>4th Avenue New York</BeneficiaryPrimeAdr3>
+<BeneficiaryPrimeAdr4 xsi:nil="true"/>
+<BeneficiaryPrimeAdr5 xsi:nil="true"/>
+<BenCountry>US</BenCountry>
+<BeneficiaryMXName xsi:nil="true"/>
+<BeneficiaryMXDepartment xsi:nil="true"/>
+<BeneficiaryMXSubDepartment xsi:nil="true"/>
+<BeneficiaryMXStreetName xsi:nil="true"/>
+<BeneficiaryMXBuildingNumber xsi:nil="true"/>
+<BeneficiaryMXBuildingName xsi:nil="true"/>
+<BeneficiaryMXFloor xsi:nil="true"/>
+<BeneficiaryMXPostBox xsi:nil="true"/>
+<BeneficiaryMXRoom xsi:nil="true"/>
+<BeneficiaryMXPostCode xsi:nil="true"/>
+<BeneficiaryMXTownName xsi:nil="true"/>
+<BeneficiaryMXTownLocationName xsi:nil="true"/>
+<BeneficiaryMXDistrictName xsi:nil="true"/>
+<BeneficiaryMXCountrySubDivision xsi:nil="true"/>
+<BeneficiaryMXCountry xsi:nil="true"/>
+<BeneficiaryMXAddr1 xsi:nil="true"/>
+<BeneficiaryMXAddr2 xsi:nil="true"/>
+<BenRef xsi:nil="true"/>
+<LCAmount>5000000</LCAmount>
+<LCCurrency>USD</LCCurrency>
+<LiabAmount>5000000</LiabAmount>
+<LiabCurrency>USD</LiabCurrency>
+<ApplicableRules>UCP LATEST VERSION</ApplicableRules>
+<TnxAmount>5000000</TnxAmount>
+<TnxCurrency>USD</TnxCurrency>
+<AvailableAmt>5000000</AvailableAmt>
+<AvailableCcy>USD</AvailableCcy>
+<Tolerance xsi:nil="true"/>
+<Min xsi:nil="true"/>
+<Max xsi:nil="true"/>
+<Revocable>N</Revocable>
+<Confirmation>W</Confirmation>
+<Revolving>N</Revolving>
+<Cumulative>N</Cumulative>
+<Period xsi:nil="true"/>
+<Frequency xsi:nil="true"/>
+<Revolutions xsi:nil="true"/>
+<NextDate xsi:nil="true"/>
+<NoticeDays xsi:nil="true"/>
+<ChargeToExpiry>N</ChargeToExpiry>
+<Transferable>N</Transferable>
+<IssueBy>4</IssueBy>
+<IssueByDesc>SWIFT</IssueByDesc>
+<AvailableBy>S</AvailableBy>
+<TenorDays xsi:nil="true"/>
+<FromAfter xsi:nil="true"/>
+<TenorPeriod xsi:nil="true"/>
+<TenorFrom xsi:nil="true"/>
+<TenorText xsi:nil="true"/>
+<TenorMaturityDate xsi:nil="true"/>
+<TenorDesc>Sight</TenorDesc>
+<MixedPaymentDtls xsi:nil="true"/>
+<MaturityDate>2026-02-27</MaturityDate>
+<AvailableWith>W</AvailableWith>
+<AvailableWithBankId xsi:nil="true"/>
+<AvailableWithBankLEI xsi:nil="true"/>
+<AvailableWithBankName xsi:nil="true"/>
+<AvailableWithBankAdr2 xsi:nil="true"/>
+<AvailableWithBankAdr3 xsi:nil="true"/>
+<AvailableWithBankAdr4 xsi:nil="true"/>
+<AvailableWithBankPrimeName xsi:nil="true"/>
+<AvailableWithBankPrimeAdr2 xsi:nil="true"/>
+<AvailableWithBankPrimeAdr3 xsi:nil="true"/>
+<AvailableWithBankPrimeAdr4 xsi:nil="true"/>
+<AvailableWithBankPrimeAdr5 xsi:nil="true"/>
+<AvailableWithBankMXName xsi:nil="true"/>
+<AvailableWithBankMXDepartment xsi:nil="true"/>
+<AvailableWithBankMXSubDepartment xsi:nil="true"/>
+<AvailableWithBankMXStreetName xsi:nil="true"/>
+<AvailableWithBankMXBuildingNumber xsi:nil="true"/>
+<AvailableWithBankMXBuildingName xsi:nil="true"/>
+<AvailableWithBankMXFloor xsi:nil="true"/>
+<AvailableWithBankMXPostBox xsi:nil="true"/>
+<AvailableWithBankMXRoom xsi:nil="true"/>
+<AvailableWithBankMXPostCode xsi:nil="true"/>
+<AvailableWithBankMXTownName xsi:nil="true"/>
+<AvailableWithBankMXTownLocationName xsi:nil="true"/>
+<AvailableWithBankMXDistrictName xsi:nil="true"/>
+<AvailableWithBankMXCountrySubDivision xsi:nil="true"/>
+<AvailableWithBankMXCountry xsi:nil="true"/>
+<AvailableWithBankMXAddr1 xsi:nil="true"/>
+<AvailableWithBankMXAddr2 xsi:nil="true"/>
+<AvailableWithCtry xsi:nil="true"/>
+<AvailableWithCity xsi:nil="true"/>
+<DraftsDrawnOn>N</DraftsDrawnOn>
+<DraftsDrawnOnBankLEI xsi:nil="true"/>
+<DraftsDrawnOnBank xsi:nil="true"/>
+<DraftsDrawnOnBankName xsi:nil="true"/>
+<DraftsDrawnOnBankAdr2 xsi:nil="true"/>
+<DraftsDrawnOnBankAdr3 xsi:nil="true"/>
+<DraftsDrawnOnBankAdr4 xsi:nil="true"/>
+<DraftsDrawnOnBankAdr5 xsi:nil="true"/>
+<DraftsDrawnOnBankPrimeName xsi:nil="true"/>
+<DraftsDrawnOnBankPrimeAdr2 xsi:nil="true"/>
+<DraftsDrawnOnBankPrimeAdr3 xsi:nil="true"/>
+<DraftsDrawnOnBankPrimeAdr4 xsi:nil="true"/>
+<DraftsDrawnOnBankPrimeAdr5 xsi:nil="true"/>
+<DraftsDrawnOnBankMXName xsi:nil="true"/>
+<DraftsDrawnOnBankMXDepartment xsi:nil="true"/>
+<DraftsDrawnOnBankMXSubDepartment xsi:nil="true"/>
+<DraftsDrawnOnBankMXStreetName xsi:nil="true"/>
+<DraftsDrawnOnBankMXBuildingNumber xsi:nil="true"/>
+<DraftsDrawnOnBankMXBuildingName xsi:nil="true"/>
+<DraftsDrawnOnBankMXFloor xsi:nil="true"/>
+<DraftsDrawnOnBankMXPostBox xsi:nil="true"/>
+<DraftsDrawnOnBankMXRoom xsi:nil="true"/>
+<DraftsDrawnOnBankMXPostCode xsi:nil="true"/>
+<DraftsDrawnOnBankMXTownName xsi:nil="true"/>
+<DraftsDrawnOnBankMXTownLocationName xsi:nil="true"/>
+<DraftsDrawnOnBankMXDistrictName xsi:nil="true"/>
+<DraftsDrawnOnBankMXCountrySubDivision xsi:nil="true"/>
+<DraftsDrawnOnBankMXCountry xsi:nil="true"/>
+<DraftsDrawnOnBankMXAddr1 xsi:nil="true"/>
+<DraftsDrawnOnBankMXAddr2 xsi:nil="true"/>
+<DraftsDrawnOnBankAddress xsi:nil="true"/>
+<DraftsDrawnBy xsi:nil="true"/>
+<DraftsDrawnByParty xsi:nil="true"/>
+<ShipmentFrom xsi:nil="true"/>
+<ShipmentTo xsi:nil="true"/>
+<ShipmentDate xsi:nil="true"/>
+<ShipmentPeriod xsi:nil="true"/>
+<TransShipment>Not Allowed</TransShipment>
+<PartShipment>Allowed</PartShipment>
+<Incoterm xsi:nil="true"/>
+<Incoplace xsi:nil="true"/>
+<PresentationDays xsi:nil="true"/>
+<PresentationPeriod xsi:nil="true"/>
+<Goods><![CDATA[1000 shirts at 50 USD per piece
+
+Shirts to be made of quality Lenin material]]></Goods>
+<Documents><![CDATA[3/3 Commercial Invoice
+
+3./3 BIlls of lading
+
+2/2 Packing list]]></Documents>
+<AddConditions>All documents to bear the LC reference number</AddConditions>
+<SpecialPayConditionsBeneficiary xsi:nil="true"/>
+<SpecialPayConditionsRcvBank xsi:nil="true"/>
+<ApplicantInstructions xsi:nil="true"/>
+<IssuanceChgsFor>A</IssuanceChgsFor>
+<OverseasChgsFor>B</OverseasChgsFor>
+<ConfirmationCharges xsi:nil="true"/>
+<AddAmountText xsi:nil="true"/>
+<AddAmountAndDetails xsi:nil="true"/>
+<InstructionstoPayBank><![CDATA[Please always quote L/C number ILC/MBW/23/1255  in all your communications.
+
+Please acknowledge receipt.]]></InstructionstoPayBank>
+<AdviseThruId xsi:nil="true"/>
+<AdviseThruLEI xsi:nil="true"/>
+<AdviseThruName xsi:nil="true"/>
+<AdviseThruAdr2 xsi:nil="true"/>
+<AdviseThruAdr3 xsi:nil="true"/>
+<AdviseThruAdr4 xsi:nil="true"/>
+<AdviseThruAdr5 xsi:nil="true"/>
+<AdviseThruPrimeName xsi:nil="true"/>
+<AdviseThruPrimeAdr2 xsi:nil="true"/>
+<AdviseThruPrimeAdr3 xsi:nil="true"/>
+<AdviseThruPrimeAdr4 xsi:nil="true"/>
+<AdviseThruPrimeAdr5 xsi:nil="true"/>
+<AdviseThruMXName xsi:nil="true"/>
+<AdviseThruMXDepartment xsi:nil="true"/>
+<AdviseThruMXSubDepartment xsi:nil="true"/>
+<AdviseThruMXStreetName xsi:nil="true"/>
+<AdviseThruMXBuildingNumber xsi:nil="true"/>
+<AdviseThruMXBuildingName xsi:nil="true"/>
+<AdviseThruMXFloor xsi:nil="true"/>
+<AdviseThruMXPostBox xsi:nil="true"/>
+<AdviseThruMXRoom xsi:nil="true"/>
+<AdviseThruMXPostCode xsi:nil="true"/>
+<AdviseThruMXTownName xsi:nil="true"/>
+<AdviseThruMXTownLocationName xsi:nil="true"/>
+<AdviseThruMXDistrictName xsi:nil="true"/>
+<AdviseThruMXCountrySubDivision xsi:nil="true"/>
+<AdviseThruMXCountry xsi:nil="true"/>
+<AdviseThruMXAddr1 xsi:nil="true"/>
+<AdviseThruMXAddr2 xsi:nil="true"/>
+<RequestedConfirmParty xsi:nil="true"/>
+<RequestedConfirmPartyLEI xsi:nil="true"/>
+<RequestedConfirmPartyName xsi:nil="true"/>
+<RequestedConfirmPartyAdr2 xsi:nil="true"/>
+<RequestedConfirmPartyAdr3 xsi:nil="true"/>
+<RequestedConfirmPartyAdr4 xsi:nil="true"/>
+<RequestedConfirmPartyAdr5 xsi:nil="true"/>
+<RequestedConfirmPartyPrimeName xsi:nil="true"/>
+<RequestedConfirmPartyPrimeAdr2 xsi:nil="true"/>
+<RequestedConfirmPartyPrimeAdr3 xsi:nil="true"/>
+<RequestedConfirmPartyPrimeAdr4 xsi:nil="true"/>
+<RequestedConfirmPartyPrimeAdr5 xsi:nil="true"/>
+<RequestedConfirmPartyBIC xsi:nil="true"/>
+<RequestedConfirmPartyMXName xsi:nil="true"/>
+<RequestedConfirmPartyMXDepartment xsi:nil="true"/>
+<RequestedConfirmPartyMXSubDepartment xsi:nil="true"/>
+<RequestedConfirmPartyMXStreetName xsi:nil="true"/>
+<RequestedConfirmPartyMXBuildingNumber xsi:nil="true"/>
+<RequestedConfirmPartyMXBuildingName xsi:nil="true"/>
+<RequestedConfirmPartyMXFloor xsi:nil="true"/>
+<RequestedConfirmPartyMXPostBox xsi:nil="true"/>
+<RequestedConfirmPartyMXRoom xsi:nil="true"/>
+<RequestedConfirmPartyMXPostCode xsi:nil="true"/>
+<RequestedConfirmPartyMXTownName xsi:nil="true"/>
+<RequestedConfirmPartyMXTownLocationName xsi:nil="true"/>
+<RequestedConfirmPartyMXDistrictName xsi:nil="true"/>
+<RequestedConfirmPartyMXCountrySubDivision xsi:nil="true"/>
+<RequestedConfirmPartyMXCountry xsi:nil="true"/>
+<RequestedConfirmPartyMXAddr1 xsi:nil="true"/>
+<RequestedConfirmPartyMXAddr2 xsi:nil="true"/>
+<PreferredCcy xsi:nil="true"/>
+<ChargeAccount xsi:nil="true"/>
+<Provisional>Y</Provisional>
+<FinalWording>N</FinalWording>
+<AutoCreateFollowOnEvent>N</AutoCreateFollowOnEvent>
+<Sequence>2</Sequence>
+<AdvisingBankId>THFT</AdvisingBankId>
+<AdvisingBankLEI xsi:nil="true"/>
+<AdvisingBankName>THRIFT FIRST BANK NEW YORK</AdvisingBankName>
+<AdvisingBankAdr2>452 5TH AVENUE</AdvisingBankAdr2>
+<AdvisingBankAdr3>NEW YORK</AdvisingBankAdr3>
+<AdvisingBankAdr4>NY 0128 USA</AdvisingBankAdr4>
+<AdvisingBankAdr5 xsi:nil="true"/>
+<AdvisingBankPrimeName>THRIFT FIRST BANK NEW YORK</AdvisingBankPrimeName>
+<AdvisingBankPrimeAdr2>452 5TH AVENUE</AdvisingBankPrimeAdr2>
+<AdvisingBankPrimeAdr3>NEW YORK</AdvisingBankPrimeAdr3>
+<AdvisingBankPrimeAdr4>NY 0128 USA</AdvisingBankPrimeAdr4>
+<AdvisingBankPrimeAdr5 xsi:nil="true"/>
+<AdvisingBankMXName xsi:nil="true"/>
+<AdvisingBankMXDepartment xsi:nil="true"/>
+<AdvisingBankMXSubDepartment xsi:nil="true"/>
+<AdvisingBankMXStreetName xsi:nil="true"/>
+<AdvisingBankMXBuildingNumber xsi:nil="true"/>
+<AdvisingBankMXBuildingName xsi:nil="true"/>
+<AdvisingBankMXFloor xsi:nil="true"/>
+<AdvisingBankMXPostBox xsi:nil="true"/>
+<AdvisingBankMXRoom xsi:nil="true"/>
+<AdvisingBankMXPostCode xsi:nil="true"/>
+<AdvisingBankMXTownName xsi:nil="true"/>
+<AdvisingBankMXTownLocationName xsi:nil="true"/>
+<AdvisingBankMXDistrictName xsi:nil="true"/>
+<AdvisingBankMXCountrySubDivision xsi:nil="true"/>
+<AdvisingBankMXCountry xsi:nil="true"/>
+<AdvisingBankMXAddr1 xsi:nil="true"/>
+<AdvisingBankMXAddr2 xsi:nil="true"/>
+<Charges>
+    <ChgId>GENSWIFT</ChgId>
+    <ChgCode>General SWIFT Charge</ChgCode>
+    <ChgCalcAmt>3124</ChgCalcAmt>
+    <ChgCalcCcy>USD</ChgCalcCcy>
+    <Status>Y</Status>
+    <ExchangeRate/>
+    <EquivChgAmt>3124</EquivChgAmt>
+    <EquivChgCcy>USD</EquivChgCcy>
+    <ChgInceptionDate/>
+    <SettleDate/>
+    <AddComment>General SWIFT Charge</AddComment>
+    <PeriodicType/>
+</Charges>
+<Charges>
+    <ChgId>ILC ISSAMD</ChgId>
+    <ChgCode><![CDATA[Issue / Amendment Commission]]></ChgCode>
+    <ChgCalcAmt>8003</ChgCalcAmt>
+    <ChgCalcCcy>GBP</ChgCalcCcy>
+    <Status>N</Status>
+    <ExchangeRate>1.5619</ExchangeRate>
+    <EquivChgAmt>12500</EquivChgAmt>
+    <EquivChgCcy>USD</EquivChgCcy>
+    <ChgInceptionDate/>
+    <SettleDate>2023-10-02</SettleDate>
+    <AddComment><![CDATA[Issue / Amendment Commission]]></AddComment>
+    <PeriodicType>S</PeriodicType>
+</Charges>
+<PortOfLoading xsi:nil="true"/>
+<PortOfDischarge xsi:nil="true"/>
+<ExtractCounterParty>Y</ExtractCounterParty>
+<OriginOfGoods xsi:nil="true"/>
+<ParentLCReference xsi:nil="true"/>
+</tfilcdet>
